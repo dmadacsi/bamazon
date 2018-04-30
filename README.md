@@ -1,6 +1,6 @@
 # bamazon
 
-I made a csv and imported it
+I first made the csv below and imported it into the db.
 
 1,Rolex Luxomatic,Watches,5000,100
 2,Yeti Travel Mug,Travel and Camping,30,100
